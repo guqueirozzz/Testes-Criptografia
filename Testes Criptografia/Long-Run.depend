@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618797557 source:c:\users\guara\onedrive\documentos\long-run\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<thread>
+	<vector>
+	<chrono>
+	<math.h>
+	<string>
+

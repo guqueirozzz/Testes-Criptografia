@@ -1,0 +1,40 @@
+
+ Na chave 1 existem 10665 numeros 1
+
+ Na chave 2 existem 10761 numeros 1
+
+ Na chave 3 existem 10677 numeros 1
+
+ Na chave 4 existem 10585 numeros 1
+
+ Na chave 5 existem 10625 numeros 1
+
+ Na chave 6 existem 10578 numeros 1
+
+ Na chave 7 existem 10564 numeros 1
+
+ Na chave 8 existem 10593 numeros 1
+
+ Na chave 9 existem 10788 numeros 1
+
+ Na chave 10 existem 10685 numeros 1
+
+ Na chave 11 existem 10047 numeros 1
+
+ Na chave 12 existem 10065 numeros 1
+
+ Na chave 13 existem 9971 numeros 1
+
+ Na chave 14 existem 10081 numeros 1
+
+ Na chave 15 existem 9926 numeros 1
+
+ Na chave 16 existem 10167 numeros 1
+
+ Na chave 17 existem 10034 numeros 1
+
+ Na chave 18 existem 9944 numeros 1
+
+ Na chave 19 existem 10048 numeros 1
+
+ Na chave 20 existem 9853 numeros 1

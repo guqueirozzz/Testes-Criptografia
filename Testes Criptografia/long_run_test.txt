@@ -1,0 +1,84 @@
+
+ ========================== LONG RUN TEST =========================== :
+ Sequencias de tamanho 34 +
+ CHAVE: 1
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 2
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 3
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 4
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 5
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 6
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 7
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 8
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 9
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 10
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 11
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 12
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 13
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 14
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 15
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 16
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 17
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 18
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 19
+ 0 = 0
+ 1 = 0
+ Sequencias de tamanho 34 +
+ CHAVE: 20
+ 0 = 0
+ 1 = 0
+Process returned 0 (0x0)   execution time : 0.669 s
+Press any key to continue.
